@@ -4,7 +4,7 @@ import Footer from "../components/shared/footer/Footer";
 
 const Root = () => {
   return (
-    <section>
+    <section className="scroll-smooth ">
       <section className="container mx-auto bg-[#f9fffd] min-h-screen tex ">
         <header>
           <nav>
