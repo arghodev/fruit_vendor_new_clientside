@@ -1887,6 +1887,11 @@ supports-preserve-symlinks-flag@^1.0.0:
   resolved "https://registry.yarnpkg.com/supports-preserve-symlinks-flag/-/supports-preserve-symlinks-flag-1.0.0.tgz#6eda4bd344a3c94aea376d4cc31bc77311039e09"
   integrity sha512-ot0WnXS9fgdkgIcePe6RHNk1WA8+muPa6cSjeR3V8K27q9BB1rTE3R1p7Hv0z1ZyAc8s6Vvv8DIyWf681MAt0w==
 
+tailwindcss-motion@^0.4.1-beta:
+  version "0.4.1-beta"
+  resolved "https://registry.yarnpkg.com/tailwindcss-motion/-/tailwindcss-motion-0.4.1-beta.tgz#1dea76d850da5b55cf510ebbedbc4707c0e194d2"
+  integrity sha512-yCybZsy6Vq4mgKS4KN41mGKfsOQVzgcapUEQ7Rws1gfN7zZUEm2gji6x6KAWNYf64lstVXPmZuxMmPaQp4XyLA==
+
 tailwindcss@^3.4.14:
   version "3.4.14"
   resolved "https://registry.yarnpkg.com/tailwindcss/-/tailwindcss-3.4.14.tgz#6dd23a7f54ec197b19159e91e3bb1e55e7aa73ac"

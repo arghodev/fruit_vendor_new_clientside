@@ -10,7 +10,10 @@ export default {
     },
     colors: {
       "light-green": "#82d577",
+      "light-pink": "#ff968f",
+      "deep-green": "#2C7764",
+      "extra-orange": "#FF9900",
     },
   },
-  plugins: [require("daisyui")],
+  plugins: [require("daisyui"), require("tailwindcss-motion")],
 };
