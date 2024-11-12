@@ -5,8 +5,8 @@ import HeroSection from "./HeroSection";
 const HomePage = () => {
   return (
     <>
-        {/* <HeroSection /> */}
-      {/* <section>
+        <HeroSection />
+      <section className="bg-red">
         <div className="flex gap-3 justify-evenly items-center bg-[#f2fcf4] py-5 my-10 ">
           <Card
             title="100% Fresh & Organic"
@@ -28,7 +28,7 @@ const HomePage = () => {
             }
           />
         </div>
-      </section> */}
+      </section>
     </>
   );
 };
