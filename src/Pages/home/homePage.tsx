@@ -7,7 +7,7 @@ const HomePage = () => {
     <>
       <section>
         <HeroSection />
-        <div className="flex gap-3 justify-evenly items-center bg-[#f2fcf4] py-5 my-10 ">
+        <div className="flex gap-3 justify-evenly items-center bg-[#f2fcf4] py-5 my-10  ">
           <Card
             title="100% Fresh & Organic"
             img={<Leaf className="size-24" />}

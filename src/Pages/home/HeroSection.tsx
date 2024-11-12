@@ -29,7 +29,7 @@ const HeroSection = () => {
           <img src={img4} alt="" className="w-full object-cover h-full " />
         </div>
         <div className="b5 bg-accent col-span-2 rounded-xl overflow-hidden">
-          <img src={img5} alt="" className="w-full object-cover h-full " />
+          <img src={img5} alt="" className="w-full object-cover h-full  " />
         </div>
       </div>
     </section>
