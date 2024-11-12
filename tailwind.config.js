@@ -13,6 +13,7 @@ export default {
       "light-pink": "#ff968f",
       "deep-green": "#2C7764",
       "extra-orange": "#FF9900",
+      "white":"#ffffff"
     },
   },
   plugins: [require("daisyui"), require("tailwindcss-motion")],
