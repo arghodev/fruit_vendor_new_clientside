@@ -29,10 +29,10 @@ const Nav = () => {
     <>
       <div className="navbar  h-24 fixed bg-[#f9fffd] text-light-green flex justify-between container">
         <div className="navbar-start">
-          <div className=" w-28 lg:w-auto ">
+          <div className=" w-28 lg:w-auto  ">
           <Logo/>
           </div>
-          
+
         </div>
         <div className="">
             <div tabIndex={0} role="button" className="btn btn-ghost md:hidden" onClick={() => {
@@ -40,7 +40,7 @@ const Nav = () => {
             }}>
             <AlignRight />
             </div>
-            
+
           </div>
         <div className="navbar-center hidden md:flex">
           <ul className="menu menu-horizontal px-1">{navLink}</ul>
@@ -91,6 +91,6 @@ const Nav = () => {
     </>
   );
 
-  
+
 };
 export default Nav;
